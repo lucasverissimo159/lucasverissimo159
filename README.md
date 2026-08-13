@@ -6,7 +6,7 @@
 
 **Building practical software for real-world systems, infrastructure and data.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucasverissimo159-181717?style=flat-square&logo=github)](https://github.com/lucasverissimo159)
+[![GitHub](https://img.shields.io/badge/GitHub-lucasverissimo159-181717?style=flat-square&logo=github)](https://github.com/lucasverissimo159?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Veríssimo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-verissimo-bwv/)
 [![Email](https://img.shields.io/badge/Email-lucasverissimo159%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:lucasverissimo159@gmail.com)
 
