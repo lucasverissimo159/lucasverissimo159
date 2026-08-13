@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Veríssimo
+# Lucas Veríssimo de Oliveira
 
 ### Systems Engineering · Software · Networks · Automation
 
