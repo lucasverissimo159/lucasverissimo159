@@ -19,11 +19,11 @@
 | Domain | Technologies |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Back-End** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Back-End** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 | **Front-End** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Desktop** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Data & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-F7DF1E?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![Excel](https://img.shields.io/badge/Excel%20%2F%20XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **AI & Automation** | ![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square) ![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square) ![PDF processing](https://img.shields.io/badge/PDF%20processing-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=flat-square) |
+| **Data & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-F7DF1E?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![Excel](https://img.shields.io/badge/Excel%20%2F%20XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **AI & Automation** | ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square) ![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square) ![PDF processing](https://img.shields.io/badge/PDF%20processing-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=flat-square) |
 | **Networks & Infrastructure** | ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square) ![OCS Reports](https://img.shields.io/badge/OCS%20Reports-2E7D32?style=flat-square) ![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![IP Monitoring](https://img.shields.io/badge/IP%20Monitoring-00A4EF?style=flat-square) |
 | **Quality & Delivery** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Automated Tests](https://img.shields.io/badge/Automated%20Tests-43B02A?style=flat-square) ![CI Workflows](https://img.shields.io/badge/CI%20Workflows-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
@@ -57,33 +57,36 @@ Applying engineering concepts to software, reliability, observability, automatio
 
 ## 🚀 Selected Projects
 
+### 🤖 AI & Automation
+
+| Project | What it does | Main Technologies |
+|---|---|---|
+| [**SentinelIQ**](https://github.com/lucasverissimo159/sentineliq-security-intelligence) | AI-powered security log intelligence platform that ingests network logs into PostgreSQL, archives raw batches to AWS S3, and uses Claude API to detect anomalies and generate incident reports. | `Python` `FastAPI` `Claude API` |
+| [**Sistema de Cotações**](https://github.com/lucasverissimo159/Sistema-de-Cotacoes) | PyQt6 desktop application that extracts structured quote data from supplier PDFs via Groq API (Llama 3.3) and generates price comparison spreadsheets. | `Python` `PyQt6` `Groq API` |
+| [**PoderBR**](https://github.com/lucasverissimo159/PoderBR) | 🚧 *In Development* — Analytics platform providing insights into purchasing power and cost of living in Brazil by tracking protein basket affordability and economic metrics over time. | `Python` `FastAPI` `PostgreSQL` |
+
 ### 🌐 Networks & Infrastructure
 
-| Project | What it does |
-|---|---|
-| [**NetWatch Pro**](https://github.com/lucasverissimo159/Net-Watch) | Real-time network monitoring with latency, jitter, packet loss, DNS, traceroute/MTR, SSH collection, dashboards and alerts. |
-| [**IP Scanner Pro**](https://github.com/lucasverissimo159/IP-Scanner) | Configurable IP scanning with UniFi Controller and OCS Reports integration, automatic device identification and MVC architecture. |
-| [**WiFi Manager**](https://github.com/lucasverissimo159/WiFi-Manager) | UniFi network management with controller status, WLAN/client inspection, visitor validation and PDF reporting. |
-| [**UniFi Collector Monitor**](https://github.com/lucasverissimo159/UniFi-Collector-Monitor) | Real-time collector monitoring with administrative authentication, IP-range management, parallel ping and intelligent blocking. |
-| [**Alerta**](https://github.com/lucasverissimo159/Alerta) | Lightweight Windows network monitor that checks hosts with ping and provides progressive audio alerts when a unit goes offline. |
-
-### 🧩 Applications & Automation
-
-| Project | What it does |
-|---|---|
-| [**Controle de Equipamentos**](https://github.com/lucasverissimo159/Controle-de-Equipamentos) | Desktop system for equipment movements, history, filtering, statistics, rankings and report export. |
-| [**Controle de Kits**](https://github.com/lucasverissimo159/Controle-de-Kits) | Desktop management of IT kits, technicians, service locations, historical records and monthly archives. |
-| [**Sistema de Cotações**](https://github.com/lucasverissimo159/Sistema-de-Cotacoes) | PyQt6 application that extracts supplier quotations from PDFs using Groq/Llama and generates comparison spreadsheets. |
+| Project | What it does | Main Technologies |
+|---|---|---|
+| [**NetWatch Pro**](https://github.com/lucasverissimo159/Net-Watch) | Real-time network monitoring with latency, jitter, packet loss, DNS, traceroute/MTR, SSH collection across pfSense/Linux/Cisco, dashboards and alerts. | `Python` `CustomTkinter` `SQLite` |
+| [**IP Scanner Pro**](https://github.com/lucasverissimo159/IP-Scanner) | Configurable network scanner integrated with UniFi Controller and OCS Reports for automated IP monitoring and device identification. | `Python` `CustomTkinter` `UniFi API` |
+| [**WiFi Manager**](https://github.com/lucasverissimo159/WiFi-Manager) | UniFi multi-site network manager to check controller status, inspect WLANs and connected clients, validate visitor CPF access, and export reports. | `Python` `CustomTkinter` `UniFi API` |
+| [**UniFi Collector Monitor**](https://github.com/lucasverissimo159/UniFi-Collector-Monitor) | Real-time UniFi Access Point monitor with admin authentication, parallel ping, IP-range configuration, employee tracking, and smart blocking. | `Python` `CustomTkinter` `SQLite` |
+| [**Alerta**](https://github.com/lucasverissimo159/Alerta) | Lightweight Windows network monitor that continuously pings target hosts and triggers progressive audio alerts when units go offline. | `Batch` `Windows CMD` `Ping` |
 
 ### 💻 Web & Systems Engineering
 
-| Project | What it does |
-|---|---|
-| [**FinTrack API**](https://github.com/lucasverissimo159/Fintrack-API) | Layered financial REST API with JWT/API Key authentication, SQLite, analytics, OpenAPI documentation, tests and Docker support. |
-| [**TaskForge**](https://github.com/lucasverissimo159/Task-Manager) | Background job queue for Node.js with priority scheduling, WAL persistence, worker threads, rate limiting and retry/backoff strategies. |
-| [**Centsible**](https://github.com/lucasverissimo159/Centsible) | Client-side React/TypeScript finance dashboard with recurring transactions, budget forecasting and undo/redo. |
-| [**Nébula Notes**](https://github.com/lucasverissimo159/Nebula-Notes) | Offline Markdown knowledge system with custom TF-IDF search, backlinks and a force-directed graph built from scratch. |
-| [**FileWarden**](https://github.com/lucasverissimo159/File-Warden) | C++ command-line tool for duplicate detection, incremental backups, content-addressable storage, SHA-256 and optional Huffman compression. |
+| Project | What it does | Main Technologies |
+|---|---|---|
+| [**FinTrack API**](https://github.com/lucasverissimo159/Fintrack-API) | Layered financial REST API with JWT/API Key auth, budget alerts, recurring transactions, OpenAPI docs, Docker, and Power BI analytics integration. | `Node.js` `Express` `SQLite` |
+| [**TaskForge**](https://github.com/lucasverissimo159/Task-Manager) | Zero-dependency background job queue engine for Node.js featuring worker threads, WAL persistence, priority scheduling, and exponential backoff. | `Node.js` `JavaScript` `Worker Threads` |
+| [**Centsible**](https://github.com/lucasverissimo159/Centsible) | Client-side personal finance dashboard built with React and TypeScript, supporting leap-year handling, budget forecasting, and full undo/redo state. | `React` `TypeScript` `Vite` |
+| [**Nébula Notes**](https://github.com/lucasverissimo159/Nebula-Notes) | Offline Markdown knowledge system featuring a custom TF-IDF search engine, bidirectional backlinks, and an animated force-directed graph built from scratch. | `TypeScript` `React` `IndexedDB` |
+| [**FileWarden**](https://github.com/lucasverissimo159/File-Warden) | Fast C++ CLI utility for duplicate file detection and incremental backups using content-addressable storage, SHA-256 hashing, and Huffman compression. | `C++` `SHA-256` `CLI` |
+| [**PharmaSystem**](https://github.com/lucasverissimo159/Pharma-System) | Systems engineering portfolio project simulating data modeling, REST APIs, ETL processes, and analytical dashboards for a 100-location pharmacy chain. | `Python` `Pandas` `SQL` |
+| [**Controle de Equipamentos**](https://github.com/lucasverissimo159/Controle-de-Equipamentos) | Desktop system for tracking equipment deliveries and pickups with full movement history, filtering, statistics, rankings, and report exports. | `Python` `CustomTkinter` `SQLite` |
+| [**Controle de Kits**](https://github.com/lucasverissimo159/Controle-de-Kits) | Desktop management solution for computer kits, technicians, service locations, historical audit records, and monthly archives. | `Python` `CustomTkinter` `SQLite` |
 
 ---
 
